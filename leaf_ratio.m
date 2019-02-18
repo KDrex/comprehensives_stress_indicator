@@ -1,5 +1,5 @@
- %% Leaf Ratio Analysis Program
-% Kelley Drechsler
+ %% Comprehensive Stress Indicator Analysis Program
+% Property of University of California, Davis
 
 clear
 close all
