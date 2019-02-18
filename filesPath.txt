@@ -1,1 +1,1 @@
-C:\Users\kmdre\Dropbox\Precision_Irrigation_Lab\leaf_ratio
+C:\ < INSERT FILE PATH TO FOLDER WITH PROGRAM FILES >
